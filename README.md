@@ -1,9 +1,5 @@
 # COVID-19
 
-![2019_nCoV](https://github.com/Eclectikus/COVID-19/blob/master/img/2019_nCoV600x.png "2019_nCoV")
+fork de [este](https://github.com/Eclectikus/COVID-19) repositorio que recolecta datos para noSoloDatos
 
-Datos públicos sobre la epidemia de Coronavirus COVID-19 recolectados para su proceso y visualización en **noSoloDatos**:
-
-- [*Seguimiento del COVID-19*](https://nosolodatos.netlify.com/es/covid19/coronavirus).
-
-Para consultar las series temporales proporcionadas por el **Centro de Ciencia de Ingeniería y Sistemas de la Universidad Johns Hopkins** visita [este otro repositorio](https://github.com/Eclectikus/jhutimeseries).
+yo solo le he añadido un script para parsear los datos y dibujar una serie temporal del número de casos.
